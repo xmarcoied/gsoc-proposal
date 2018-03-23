@@ -59,7 +59,7 @@
 .. http://teom.wordpress.com/2012/03/01/how-to-write-a-kick-ass-proposal-for-google-summer-of-code/
 
 ======================================
-FILLME WITH THE TITLE OF YOUR PROPOSAL
+Implement Bindings for Go
 ======================================
 
 About You
