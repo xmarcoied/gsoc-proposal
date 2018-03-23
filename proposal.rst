@@ -105,7 +105,7 @@ systems for indexed text search.
 
 FILLME
 
-Do you have previous experience with Free Software and Open Source other than
+**Do you have previous experience with Free Software and Open Source other than
 Xapian?
 
 FILLME
