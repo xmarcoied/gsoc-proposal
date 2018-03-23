@@ -65,15 +65,15 @@ FILLME WITH THE TITLE OF YOUR PROPOSAL
 About You
 =========
 
- * Name: FILLME
+ * Name: Marco Younan
 
- * E-mail address: FILLME
+ * E-mail address: xmarcoied@gmail.com
 
- * IRC nickname(s): FILLME
+ * IRC nickname(s): xmarcoied
 
- * Any personal websites, blogs, social media, etc: FILLME
+ * Any personal websites, blogs, social media, etc: 
 
- * github URL: FILLME
+ * github URL: https://github.com/xmarcoied
 
  * Biography:
 
@@ -94,7 +94,11 @@ Have you taken part in GSoC and/or GCI (https://codein.withgoogle.com/) and/or
 similar programmes before?  If so, tell us about how it went, and any areas you
 would have liked more help with.
 
-FILLME
+Yes, I did GSoC last year with Videolan(https://summerofcode.withgoogle.com/archive/2017/projects/5266266902233088/). My project was about build a new update server to manage releases, update requests and so.
+Most of the code I did in summer relies here (https://code.videolan.org/GSoC2017/Marco/UpdateServer) . but I continued working on it till it get merged to VLC.
+also customized it for my college.
+
+the project was written in Golang, and I felt in love with the language. also was encryption, servers and infrastructure interfacing.
 
 Please tell us about any previous experience you have with Xapian, or other
 systems for indexed text search.
@@ -109,7 +113,7 @@ FILLME
 What other relevant prior experience do you have (courses taken at college,
 hobbies, holiday jobs, etc)?
 
-FILLME
+I had intern in Microsoft Research lab in Cairo before (working on bing dashboard).
 
 What development platforms, tools and methods do you prefer to use?
 
@@ -122,12 +126,12 @@ FILLME
 
 What timezone will you be in during the coding period?
 
-FILLME
+Cairo,Egypt (GMT+2) . but I will be felixable to work in other timing.
 
 Will your Summer of Code project be the main focus of your time during the
 program?
 
-FILLME
+Yes, I'll be fully committed to the program till the last minute of it.
 
 Expected work hours (e.g. Monday–Friday 9am–5pm UTC)
 
@@ -140,7 +144,7 @@ organisation(s)?
 .. we don't have a problem with that, but it's helpful if we're aware of it
 .. so that we know how many backup choices we might need.
 
-FILLME
+No. only you, xapian.
 
 Your Project
 ============
