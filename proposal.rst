@@ -90,9 +90,9 @@ Background Information
 .. much experience, but it's a problem if we aren't aware of that and propose
 .. an overly ambitious project.
 
-Have you taken part in GSoC and/or GCI (https://codein.withgoogle.com/) and/or
+**Have you taken part in GSoC and/or GCI (https://codein.withgoogle.com/) and/or
 similar programmes before?  If so, tell us about how it went, and any areas you
-would have liked more help with.
+would have liked more help with.**
 
 Yes, I did GSoC last year with Videolan(https://summerofcode.withgoogle.com/archive/2017/projects/5266266902233088/). My project was about build a new update server to manage releases, update requests and so.
 Most of the code I did in summer relies here (https://code.videolan.org/GSoC2017/Marco/UpdateServer) . but I continued working on it till it get merged to VLC.
@@ -110,8 +110,8 @@ Xapian?**
 
 FILLME
 
-What other relevant prior experience do you have (courses taken at college,
-hobbies, holiday jobs, etc)?
+**What other relevant prior experience do you have (courses taken at college,
+hobbies, holiday jobs, etc)?**
 
 I had intern in Microsoft Research lab in Cairo before (working on bing dashboard).
 
